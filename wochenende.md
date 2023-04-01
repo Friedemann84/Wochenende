@@ -5,6 +5,7 @@ let b = 5;
     console log("Hallo Welt!);  
 }
 
+<<<<<<< HEAD
 else {
     console log("Hallo Mond"!);
 }
@@ -16,3 +17,4 @@ else {
 
 
 main letzter commit
+
