@@ -5,3 +5,6 @@ let b = 5;
     console log("Hallo Welt!);  
 }
 
+else {
+    console log("Hallo Mond"!);
+}
